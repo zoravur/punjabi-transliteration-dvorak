@@ -25,7 +25,7 @@ Transliteration; every other input source is untouched.
 5. Select Punjabi Transliteration from the macOS input menu and type normally
    on Dvorak.
 
-After this repository is public, the rule can also be imported directly using:
+The rule can also be imported directly using:
 
 ```text
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/zoravur/punjabi-transliteration-dvorak/main/punjabi-transliteration-dvorak.json
